@@ -1,8 +1,7 @@
 # deeplearning-tf
-
 ## Tensorflow 를 이용한 Deeplearning 구현
 
-####  pytorch-study-doyeong
+---
 
 # Batch_Normalization
 
