@@ -1,9 +1,7 @@
 # deeplearning-tf
-## Tensorflow 를 이용한 Deeplearning 구현
+## Tensorflow 를 이용한 Deeplearning 구현 Study
 
 ---
-
-# Batch_Normalization
 
 ## SGD
 
